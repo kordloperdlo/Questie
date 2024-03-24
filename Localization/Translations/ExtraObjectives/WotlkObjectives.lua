@@ -736,7 +736,7 @@ local wotlkObjectiveLocales = {
     },
     ["Use Jenny's Whistle near a crashed flying machine"] = { -- 11881
         ["ptBR"] = false,
-        ["ruRU"] = false,
+        ["ruRU"] = Используйте Свисток Дженни возле разбившегося летательного аппарата,
         ["deDE"] = false,
         ["koKR"] = false,
         ["esMX"] = false,
@@ -748,7 +748,7 @@ local wotlkObjectiveLocales = {
     },
     ["Return Jenny to safety without losing cargo"] = { -- 11881
         ["ptBR"] = false,
-        ["ruRU"] = false,
+        ["ruRU"] = "Верните Дженни в безопасное место, не растеряв груз",
         ["deDE"] = false,
         ["koKR"] = false,
         ["esMX"] = false,
@@ -2212,7 +2212,7 @@ local wotlkObjectiveLocales = {
     },
     ["Use Storm Totem to summon Storm Tempest"] = { -- 11895
         ["ptBR"] = false,
-        ["ruRU"] = false,
+        ["ruRU"] = Используйте Тотем Бури, чтобы призвать Порыв шторма,
         ["deDE"] = false,
         ["koKR"] = false,
         ["esMX"] = false,
